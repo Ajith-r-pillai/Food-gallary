@@ -1,0 +1,50 @@
+git and git hub
+
+version controler
+
+git operation
+
+push- update new project and new updations local repo to remote repo
+
+pull-new updations -remote to local repo
+
+clone-exact copy of a project-remot repo to local repo
+
+
+local storage
+   push
+<---------->
+git add
+git commit
+git push
+
+   pull
+<-------->
+remote repo--------> local repo
+
+git --verstion
+
+git instiallisation -------> git init
+
+check not added files -----> git status
+
+untracked files -------> files that not added to the staging area
+
+git add. --------> to add all untracked files
+
+git commit -m "message" --------->to commit the files
+
+git remote -v ------> to check remote added or not
+
+git remote add l1 remote(link)------------> to connect repo
+
+git remote -v ----------->
+
+git push -u l1(variable) master(branch)
+
+
+reposettings-------->pages------->branch ---> none to master and save
+
+
+
+

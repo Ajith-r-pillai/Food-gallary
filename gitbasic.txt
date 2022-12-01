@@ -45,6 +45,8 @@ git push -u l1(variable) master(branch)
 
 reposettings-------->pages------->branch ---> none to master and save
 
-
+tokens
+<------->
+git settings ----->developer settings-------> personal access 
 
 
